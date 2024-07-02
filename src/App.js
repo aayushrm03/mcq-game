@@ -6,7 +6,7 @@ import Score from './components/Score';
 import GlobalStyles from './GlobalStyles';
 import { CSSTransition, TransitionGroup } from 'react-transition-group';
 import './App.css';
-// abc
+// ab
 const AppContainer = styled.div`
   display: flex;
   flex-direction: column;

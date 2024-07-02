@@ -8,7 +8,7 @@ const GlobalStyles = createGlobalStyle`
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
   }
-// abc
+// ab
   body {
     background-color: #f0f2f5;
     display: flex;

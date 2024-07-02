@@ -1,5 +1,5 @@
 const questions = [
-  //  abc
+  //  ab
     {
         question: 'Who wrote the play "Hamlet"?',
         options: ['William Shakespeare', 'Charles Dickens', 'Jane Austen', 'Mark Twain'],
